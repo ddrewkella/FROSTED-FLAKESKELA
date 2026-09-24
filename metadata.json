@@ -1,0 +1,6 @@
+{
+  "name": "LIFELINE-SNIPER",
+  "description": "Autonomous multi-agent crypto coin sniping and trading system optimized for lifeline survival.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
